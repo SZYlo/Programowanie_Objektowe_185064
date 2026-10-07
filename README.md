@@ -1,1 +1,1 @@
-# Programowanie_Objektowe_185064
+Aleksander Sadowski 185064
